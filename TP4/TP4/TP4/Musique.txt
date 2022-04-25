@@ -1,0 +1,11 @@
+             TheWall	           PinkFloyd	    2	   26
+                Deux	          CelineDion	    4	   12
+          KinfOfBlue	          MilesDavis	    0	    5
+      UneAnneeRecord	                Loud	    3	   10
+                  21	               Adele	    1	   11
+          JoshuaTree	                  U2	    2	   11
+         AchtungBaby	                  U2	    2	   12
+        SurMonCanape	 LesCowboysFringants	    4	   12
+           AbbeyRoad	          TheBeatles	    2	   17
+                  25	               Adele	    1	   11
+                  30	               Adele	    1	   12
